@@ -41,6 +41,7 @@ switch(true){
     case xp >= 10001: 
         nivel = "radiante"
         console.log("O heroi de nome " + nome + " está no nível " + nivel + ".")
+    break;
     
     default: console.log("valor invalido!")
 }
